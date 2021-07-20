@@ -1,3 +1,3 @@
 # kfru-coursecalc
 
-Knowledge Foundation Course Calculation
+Knowledge Foundation - Kurs Kalkulation
