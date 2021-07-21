@@ -13,7 +13,11 @@
 #frame-content {
     height: 80vh;
     border-width: 5px;
-    background:rgb(230, 255, 230);
+}
+
+#frame-content2 {
+    height: 80vh;
+    border-width: 5px;
 }
 
 #frame-bottom {
